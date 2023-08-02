@@ -9,9 +9,7 @@ body{
     color: gray;
 
 }
-.header {
-   
-}
+
 .search{
     display: flex;align-items: center;
     justify-content: center;
@@ -28,9 +26,7 @@ button{
     border-radius: 5px;
     border: none;
 }
-.sidebar-left{
 
-}
 .material-icons{
     margin: 10px;
 }
